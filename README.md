@@ -1,7 +1,7 @@
 # Neptune 3 Max 3D CAD Files
 
 ## Overview
-This repository contains 3D CAD files for the **Neptune 3 Max** assembly, created using resized components from the **Neptune 3 Pro**. This project is an unofficial reference and is not affiliated with Elegoo.
+This repository contains 3D CAD files for the **Neptune 3 Max** assembly, created using resized components from the **Neptune 3 Plus**. This project is an unofficial reference and is not affiliated with Elegoo.
 
 ## Features
 - **Accurate aluminum profiles and screw holes**
